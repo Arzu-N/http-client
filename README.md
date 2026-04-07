@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repository contains various Spring Boot practice examples created while learning backend development concepts.
 
 ## 📌 About
@@ -16,3 +17,7 @@ The main purpose of this repository is to practice and understand how these conc
 
 ## ⚠️ Note
 The code structure may not represent a production-ready project, as it was written for learning and experimentation purposes.
+=======
+# http-client
+ ## 📌 Description This project demonstrates and compares different HTTP client approaches in Spring Boot:  - RestTemplate (legacy) - RestClient (modern synchronous client) - WebClient (reactive client) - Feign Client (declarative client)
+>>>>>>> 6e42ddd3de99e9bd43e83d0f6ea171da417766a3
